@@ -93,6 +93,7 @@ URL-REGEX,"^http:\/\/[\s\S]*\/youku\/.*\.mp4"
 
 # 高德地图
 URL-REGEX,"^http:\/\/optimus-ads\.amap\.com\/uploadimg\/"
+URL-REGEX,^https?:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
 
 # 饿了么 
 URL-REGEX,"^https?:\/\/cube\.elemecdn\.com\/.*h_\d{4}\/"
