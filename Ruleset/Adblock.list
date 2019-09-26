@@ -239,4 +239,4 @@ URL-REGEX,"^http:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash"
 
 # 高铁管家
 URL-REGEX,"^https?:\/\/[a-z]*\.rsscc\.com\/trainact\/adver\/"
-URL-REGEX,"^https?:\/\/[a-z]*\.rsscc\.com\/.*\/.*adid\/"
+URL-REGEX,"^https?:\/\/[a-z]*\.rsscc\.com\/.*\/.*adid"
